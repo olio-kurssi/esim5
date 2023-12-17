@@ -6,5 +6,3 @@ virtual void sayStatus()=0;
 </pre>
 
 Jos poistat main.cpp:ssä kommentit riviltä, jossa luodaan Person-luokan olio, saat virheilmoituksen.
-
-Katso myös millainen on Person luokan **destruktori**

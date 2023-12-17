@@ -5,11 +5,6 @@ Person::Person()
 
 }
 
-Person::~Person()
-{
-    cout<<"\nPerson luokan destruktoria kutsuttiin\n";
-}
-
 string Person::getName() const
 {
     return name;
